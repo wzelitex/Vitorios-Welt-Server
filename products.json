@@ -1,0 +1,112 @@
+[
+  {
+    "image": "https://example.com/images/bota11.jpg",
+    "name": "Bota Vaquera con Bordados",
+    "description": "Diseño con bordados artesanales y suela de cuero.",
+    "price": 175,
+    "quantity": 12,
+    "color": ["Negro", "Marrón"],
+    "sizes": ["7", "8", "9", "10"],
+    "skin": ["Cuero bordado"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota12.jpg",
+    "name": "Bota Vaquera de Cuero Grueso",
+    "description": "Bota resistente con cuero grueso y suela antiderrapante.",
+    "price": 160,
+    "quantity": 15,
+    "color": ["Café", "Negro"],
+    "sizes": ["6", "7", "8", "9", "10", "11"],
+    "skin": ["Cuero grueso"],
+    "type": "Bota de Trabajo"
+  },
+  {
+    "image": "https://example.com/images/bota13.jpg",
+    "name": "Bota Vaquera de Piel de Serpiente",
+    "description": "Estilo exótico con piel de serpiente y detalles en relieve.",
+    "price": 280,
+    "quantity": 8,
+    "color": ["Negro", "Gris"],
+    "sizes": ["8", "9", "10", "11"],
+    "skin": ["Piel de serpiente"],
+    "type": "Bota Vaquera Premium"
+  },
+  {
+    "image": "https://example.com/images/bota14.jpg",
+    "name": "Bota Vaquera con Punta Cuadrada",
+    "description": "Modelo cómodo con punta cuadrada y suela de cuero.",
+    "price": 140,
+    "quantity": 20,
+    "color": ["Marrón", "Negro"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "skin": ["Cuero"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota15.jpg",
+    "name": "Bota Vaquera con Diseño Floral",
+    "description": "Decoración floral bordada con materiales de alta calidad.",
+    "price": 190,
+    "quantity": 10,
+    "color": ["Beige", "Vino"],
+    "sizes": ["6", "7", "8", "9"],
+    "skin": ["Cuero fino"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota16.jpg",
+    "name": "Bota Vaquera de Piel de Alce",
+    "description": "Piel suave y cómoda con suela reforzada para mayor durabilidad.",
+    "price": 220,
+    "quantity": 7,
+    "color": ["Café", "Gris"],
+    "sizes": ["7", "8", "9", "10"],
+    "skin": ["Piel de alce"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota17.jpg",
+    "name": "Bota Vaquera con Estampado Tribal",
+    "description": "Diseño tribal grabado en cuero con detalles únicos.",
+    "price": 200,
+    "quantity": 9,
+    "color": ["Negro", "Marrón oscuro"],
+    "sizes": ["7", "8", "9", "10"],
+    "skin": ["Cuero grabado"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota18.jpg",
+    "name": "Bota Vaquera Ligera",
+    "description": "Modelo más ligero y cómodo para el uso diario.",
+    "price": 130,
+    "quantity": 18,
+    "color": ["Gris", "Negro"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "skin": ["Cuero ligero"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota19.jpg",
+    "name": "Bota Vaquera de Cuero Envejecido",
+    "description": "Cuero tratado con efecto envejecido para un look rústico.",
+    "price": 175,
+    "quantity": 14,
+    "color": ["Marrón", "Beige"],
+    "sizes": ["7", "8", "9", "10", "11"],
+    "skin": ["Cuero envejecido"],
+    "type": "Bota Vaquera"
+  },
+  {
+    "image": "https://example.com/images/bota20.jpg",
+    "name": "Bota Vaquera de Charol Brillante",
+    "description": "Acabado en charol con costuras elegantes y suela de cuero.",
+    "price": 185,
+    "quantity": 11,
+    "color": ["Negro", "Vino"],
+    "sizes": ["7", "8", "9", "10"],
+    "skin": ["Charol"],
+    "type": "Bota Vaquera"
+  }
+]

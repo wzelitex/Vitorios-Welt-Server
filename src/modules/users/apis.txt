@@ -1,0 +1,10 @@
+        Admin: 
+
+-- Routes Protected -- 
+
+signup admin -- api/auth/signup/admin 
+
+login -- api/auth/login
+
+
+        Client: 

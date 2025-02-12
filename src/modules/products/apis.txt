@@ -1,0 +1,31 @@
+/* -------------------------------------------------------- Completed ----------------------------------- */
+
+        Admin:
+
+-- Routes protected --
+
+create new product -- api/admin/products/post/new/product 
+
+update product -- api/admin/products/put/:id/product 
+
+delete product -- api/admin/products/delete/:id/product
+
+show products -- api/admin/products/get/products        
+
+show type products -- api/admin/products/get/type/:type/products
+
+show details products -- api/admin/products/get/:id/product 
+
+
+        Client: 
+
+-- Routes public -- 
+
+show products -- api/client/products/get?q=offset
+
+show details products -- api/client/products/get/product/:id/details 
+
+show types products -- api/client/products/get/type/:type/products 
+
+
+/* -------------------------------------------------------- Pending ----------------------------------- */

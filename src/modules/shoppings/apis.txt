@@ -1,0 +1,24 @@
+        Admin: 
+
+-- Rotues protected -- 
+
+show shoppings -- api/admin/shoppings/get/shoppings 
+
+show details shoppings -- api/admin/shoppings/get/:id/shopping 
+
+show filter shoppings -- api/admin/shoppings/get/filter/:filter/shoppings 
+
+        
+        Client: 
+
+-- Routes protected -- 
+
+show history shoppings -- api/client/shoppings/get/histor
+
+show filter history shoppings -- api/client/shoppings/get/filter/:filter/shoppings 
+
+create shopping cart = post/new/shopping/cart
+
+create shopping history = post/new/shopping/history
+
+delete shopping cart = delete/shopping/:id/shopping

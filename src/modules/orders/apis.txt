@@ -1,0 +1,21 @@
+        Admin: 
+
+show orders -- api/admin/orders/get/orders 
+
+show details orders -- api/admin/orders/get/:id/order 
+
+show filter orders -- api/admin/orders/get/filter/:filter/orders 
+
+        Client: 
+
+    
+show orders -- api/client/orders/get/orders 
+
+show filter orders -- api/client/orders/get/filter/:filter/orders 
+
+create order -- api/client/orders/post/new/order 
+
+cancel order -- api/client/orders/post/cancel/:id/order
+
+complete order -- api/client/orders/post/complete/:id/order
+
